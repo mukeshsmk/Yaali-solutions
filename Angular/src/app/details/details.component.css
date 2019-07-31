@@ -1,0 +1,27 @@
+table{
+    font-family:'Calibri';
+    font-size:15px;
+    background-color:#fff;
+    color:#333;
+}
+.modal-header{
+    background-color:#333;
+    color:#fff;
+}
+
+@media (min-width: 768px){
+.col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 100%;
+}}
+.btn {
+margin:  0 10px;
+}
+table {
+    font-family: 'Calibri';
+    font-size: 15px;
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #dee2e7 !important;
+}
